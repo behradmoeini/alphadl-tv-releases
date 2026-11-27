@@ -1,0 +1,12 @@
+{
+  "update_available": true,
+  "latest_version_code": 10038,
+  "latest_version_name": "1.0.1-ci.37",
+  "force_update": false,
+  "title": "Watch update",
+  "message": "A new build is available.",
+  "changes": ["Built from b0e925c26f476d9dc3f50f31ed23be84883af090"],
+  "apk_urls": {
+    "universal": "https://raw.githubusercontent.com/behradmoeini/alphadl-tv-releases/main/AlphaDL-TV.apk"
+  }
+}
